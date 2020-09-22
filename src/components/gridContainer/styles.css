@@ -1,0 +1,4 @@
+.grid-container-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+}
